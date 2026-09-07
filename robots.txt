@@ -1,0 +1,15 @@
+# Robots.txt for Taste Paradise Plaza Indonesia
+# https://tasteparadise.co.id/
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://tasteparadise.co.id/sitemap.xml
+
+# Crawl-delay (optional, respectful)
+Crawl-delay: 1
+
+# Disallow admin/system paths
+Disallow: /assets/*.psd
+Disallow: /assets/*.ai

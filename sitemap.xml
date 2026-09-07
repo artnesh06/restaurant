@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <!-- Homepage / Landing Page -->
+  <url>
+    <loc>https://tasteparadise.co.id/</loc>
+    <lastmod>2026-04-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="id" href="https://tasteparadise.co.id/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tasteparadise.co.id/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tasteparadise.co.id/"/>
+    <image:image>
+      <image:loc>https://tasteparadise.co.id/assets/header-background.webp</image:loc>
+      <image:title>Taste Paradise Plaza Indonesia - Chinese Fine Dining Restaurant Jakarta</image:title>
+      <image:caption>Interior mewah Taste Paradise Plaza Indonesia dengan suasana Chinese Fine Dining premium</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://tasteparadise.co.id/assets/about-interior.webp</image:loc>
+      <image:title>Interior Taste Paradise Plaza Indonesia</image:title>
+      <image:caption>Desain interior elegan Taste Paradise Plaza Indonesia dengan aksen Chinese modern</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://tasteparadise.co.id/assets/Menu/Dim%20Sum%20Menu.webp</image:loc>
+      <image:title>Dim Sum Premium Taste Paradise</image:title>
+      <image:caption>Sajian dim sum premium di Taste Paradise Plaza Indonesia Jakarta</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://tasteparadise.co.id/assets/Menu/Selected%20A%20La%20Carte%20Menu.webp</image:loc>
+      <image:title>Hidangan Cantonese Taste Paradise</image:title>
+      <image:caption>Sajian lengkap hidangan Cantonese fine dining di Taste Paradise Plaza Indonesia</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://tasteparadise.co.id/assets/Menu/Set%20Menu.webp</image:loc>
+      <image:title>Beauty in The Pot Jakarta</image:title>
+      <image:caption>Beauty in The Pot Jakarta - Premium hotpot dari Paradise Group Indonesia</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://tasteparadise.co.id/assets/Menu/Chef%27s%20Recommendation%20Menu.webp</image:loc>
+      <image:title>Paradise Dynasty 8 Flavours Xiao Long Bao</image:title>
+      <image:caption>Paradise Dynasty signature 8 flavours Xiao Long Bao di Jakarta</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://tasteparadise.co.id/assets/Gallery/Interiors/DSC07011.webp</image:loc>
+      <image:title>Chef Taste Paradise memasak hidangan premium</image:title>
+      <image:caption>Chef profesional Taste Paradise mempersiapkan hidangan Cantonese premium</image:caption>
+    </image:image>
+  </url>
+
+  <!-- English Version -->
+  <url>
+    <loc>https://tasteparadise.co.id/en/</loc>
+    <lastmod>2026-04-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="id" href="https://tasteparadise.co.id/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tasteparadise.co.id/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tasteparadise.co.id/"/>
+  </url>
+
+</urlset>
