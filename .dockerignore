@@ -1,0 +1,8 @@
+.git
+.gitignore
+.vscode
+.kiro
+.env
+.env*
+*.md
+node_modules
